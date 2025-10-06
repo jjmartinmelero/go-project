@@ -1,0 +1,6 @@
+LOG - main FN: 2025/10/06 09:19:24 This is a log message
+LOG - main FN: 2025/10/06 09:19:24 This is another log message
+LOG - main FN: 2025/10/06 09:19:24 This is a log fatal message - Check the info.log file
+2025/10/06 09:19:54 This is a log message
+2025/10/06 09:19:54 This is another log message
+2025/10/06 09:19:54 This is a log fatal message - Check the info.log file
